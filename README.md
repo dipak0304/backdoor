@@ -26,8 +26,8 @@ To install the **Backdoor**, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/Zayden-Cyber/Backdoor.git
-   cd Backdoor
+   git clone https://github.com/dipak0304/backdoor.git
+   cd backdoor
    ```
 
 2. **Install Required Packages**:
