@@ -20,3 +20,23 @@ This project is intended for ethical learning and research only. Do not use it t
 - **User-Friendly**: Designed with simplicity in mind for ease of use.
 
 
+## Installation
+
+To install the **Backdoor**, follow these steps:
+
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Zayden-Cyber/Backdoor.git
+   cd Backdoor
+   ```
+
+2. **Install Required Packages**:
+   Ensure you have Python installed. Use pip to install any required libraries:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Download the Executable**:
+   For the latest version, visit [Releases](https://github.com/Zayden-Cyber/Backdoor/releases) to download the necessary files.
+
+
