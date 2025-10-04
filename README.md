@@ -63,5 +63,15 @@ After installation, you can start using the **Backdoor** tool. Here’s a quick 
 
 For detailed command usage, refer to the inline help in the scripts.
 
+## File Structure
 
+The repository has the following structure:
+
+```
+backdoor/
+│
+├── server.py           # Server-side script
+├── client.py           # Client-side script
+├── requirements.txt    # Python packages required
+└── README.md           # Project documentation
 
