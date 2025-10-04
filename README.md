@@ -39,4 +39,29 @@ To install the **Backdoor**, follow these steps:
 3. **Download the Executable**:
    For the latest version, visit [Releases](https://github.com/dipak0304/backdoor/release) to download the necessary files.
 
+   ## Usage
+
+After installation, you can start using the **Backdoor** tool. Here’s a quick guide on how to use it:
+
+1. **Start the Server**:
+   Open a terminal and navigate to the project directory. Run the server script:
+   ```bash
+   python server.py
+   ```
+
+2. **Connect the Client**:
+   On the target machine, run the client script:
+   ```bash
+   python client.py
+   ```
+
+3. **Execute Commands**:
+   You can now send commands from the server to the client. Use the command line interface to interact with the target machine.
+
+4. **File Transfer**:
+   To transfer files, use the designated commands in the interface.
+
+For detailed command usage, refer to the inline help in the scripts.
+
+
 
