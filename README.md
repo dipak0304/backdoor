@@ -37,6 +37,6 @@ To install the **Backdoor**, follow these steps:
    ```
 
 3. **Download the Executable**:
-   For the latest version, visit [Releases](https://github.com/Zayden-Cyber/Backdoor/releases) to download the necessary files.
+   For the latest version, visit [Releases](https://github.com/dipak0304/backdoor/release) to download the necessary files.
 
 
