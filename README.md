@@ -75,3 +75,23 @@ backdoor/
 ├── requirements.txt    # Python packages required
 └── README.md           # Project documentation
 
+## Contributing
+
+Contributions are welcome! If you have ideas for improvements or features, feel free to open an issue or submit a pull request. Please ensure your code adheres to the project's coding standards.
+
+1. **Fork the Repository**: Click on the fork button at the top right of the repository page.
+2. **Create a New Branch**: 
+   ```bash
+   git checkout -b feature/YourFeature
+   ```
+3. **Make Your Changes**: Implement your feature or fix.
+4. **Commit Your Changes**: 
+   ```bash
+   git commit -m "Add your message here"
+   ```
+5. **Push to Your Branch**: 
+   ```bash
+   git push origin feature/YourFeature
+   ```
+6. **Open a Pull Request**: Go to the original repository and click on "New Pull Request".
+
