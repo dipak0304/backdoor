@@ -10,3 +10,13 @@ Welcome to the **Backdoor** repository. This project is a Python-based backdoor 
 This project is intended for ethical learning and research only. Do not use it to compromise systems you do not own or have explicit permission to test. Always perform testing inside isolated lab environments (virtual machines, air-gapped networks, or dedicated test networks) and follow all applicable laws and organizational policies.
 
 
+## Features
+
+- **Command Execution**: Execute commands remotely on the target machine.
+- **File Transfer**: Send and receive files between the server and the client.
+- **Reverse Shell**: Gain shell access to the target machine.
+- **Socket Programming**: Understand the fundamentals of network communication.
+- **JSON Support**: Use JSON for data exchange, making it easy to handle complex data structures.
+- **User-Friendly**: Designed with simplicity in mind for ease of use.
+
+
